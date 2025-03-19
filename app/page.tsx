@@ -145,15 +145,15 @@ export default function LandingPage() {
                   Trusted by thousands of companies
                 </h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Don't just take our word for it. Here's what our customers have to say.
+                  Don&apos;t just take our word for it. Here&apos;s what our customers have to say.
                 </p>
               </div>
             </div>
             <div className="mx-auto grid max-w-5xl gap-6 py-12 lg:grid-cols-2">
               <div className="flex flex-col justify-center space-y-4 rounded-lg border bg-background p-6 shadow-sm">
                 <p className="text-muted-foreground">
-                  "StreamLine has completely transformed how our team works. We've seen a 40% increase in productivity
-                  since implementing their platform."
+                  &quot;StreamLine has completely transformed how our team works. We&apos;ve seen a 40% increase in productivity
+                  since implementing their platform.&quot;
                 </p>
                 <div className="flex items-center space-x-4">
                   <Image
@@ -171,8 +171,8 @@ export default function LandingPage() {
               </div>
               <div className="flex flex-col justify-center space-y-4 rounded-lg border bg-background p-6 shadow-sm">
                 <p className="text-muted-foreground">
-                  "The analytics features alone are worth the investment. We've gained insights that have helped us make
-                  better business decisions."
+                  &quot;The analytics features alone are worth the investment. We&apos;ve gained insights that have helped us make
+                  better business decisions.&quot;
                 </p>
                 <div className="flex items-center space-x-4">
                   <Image
@@ -202,7 +202,7 @@ export default function LandingPage() {
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter md:text-4xl/tight">Simple, transparent pricing</h2>
                 <p className="max-w-[900px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Choose the plan that's right for your business.
+                  Choose the plan that!
                 </p>
               </div>
             </div>
